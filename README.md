@@ -22,11 +22,17 @@ A complete machine learning pipeline was developed to:
 ## Project Structure
 
 Titanic_Random_Forest/
+
 ┣ titanic_random_forest.ipynb
+
 ┣ submissions.csv
+
 ┣ Data sets/
+
 ┃ ┣ test_titanic.csv
+
 ┃ ┗ train_titanic.csv
+
 ┗ README.md
 
 ## Results
