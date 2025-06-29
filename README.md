@@ -31,7 +31,7 @@ Titanic_Random_Forest/
 
 ## Results
 
-A Random Forest Classifier was trained and achieved an accuracy of approximately **%** on the validation data. The model was then used to generate predictions for the test set.
+The Random Forest Classifier achieved an **Out-Of-Bag (OOB) score of 0.8297**, indicating solid predictive performance on unseen data
 
 For more projects and updates:
 - GitHub: [https://github.com/LordAmadeus1](https://github.com/LordAmadeus1)
