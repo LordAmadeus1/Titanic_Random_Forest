@@ -23,7 +23,7 @@ A complete machine learning pipeline was developed to:
 
 Titanic_Random_Forest/
 
-┣ titanic_random_forest.ipynb
+┣ titanic.1.ipynb
 
 ┣ submissions.csv
 
@@ -33,7 +33,28 @@ Titanic_Random_Forest/
 
 ┃ ┗ train_titanic.csv
 
+┣ requirements.txt
+
 ┗ README.md
+
+## How to run the project
+
+1. Clone the repository:
+   
+    git clone https://github.com/LordAmadeus1/Titanic_Random_Forest.git
+
+     cd Titanic_Random_Forest
+   
+2. Install dependencies:
+
+   pip install -r requirements.txt
+   
+3. Open the notebook:
+   
+    Launch titanic.1.ipynb in Google Colab or a local Jupyter environment.
+
+    Run each cell sequentially to reproduce the full training, evaluation, and prediction workflow.
+
 
 ## Results
 
